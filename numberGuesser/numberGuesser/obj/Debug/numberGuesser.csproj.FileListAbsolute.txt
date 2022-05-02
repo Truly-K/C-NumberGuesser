@@ -1,0 +1,6 @@
+/Users/trulyklingler/C# projects/numberGuesser/numberGuesser/bin/Debug/numberGuesser.exe
+/Users/trulyklingler/C# projects/numberGuesser/numberGuesser/bin/Debug/numberGuesser.pdb
+/Users/trulyklingler/C# projects/numberGuesser/numberGuesser/obj/Debug/numberGuesser.csproj.AssemblyReference.cache
+/Users/trulyklingler/C# projects/numberGuesser/numberGuesser/obj/Debug/numberGuesser.csproj.CoreCompileInputs.cache
+/Users/trulyklingler/C# projects/numberGuesser/numberGuesser/obj/Debug/numberGuesser.exe
+/Users/trulyklingler/C# projects/numberGuesser/numberGuesser/obj/Debug/numberGuesser.pdb
